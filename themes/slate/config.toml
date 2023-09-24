@@ -1,0 +1,22 @@
+baseURL = "http://zgondea.com/"
+languageCode = "en-us"
+title = "Zgondea.com Landing Page"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+BackgroundImages = [
+  "bg/b1920-000.jpg",
+  "bg/b1920-001.jpg",
+  "bg/b1920-002.jpg",
+  "bg/b1920-003.jpg",
+  "bg/b1920-004.jpg"
+]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
