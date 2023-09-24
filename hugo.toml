@@ -1,0 +1,4 @@
+baseURL = 'https://zgondea.com/'
+languageCode = 'en-us'
+title = 'Landing Page'
+theme = 'slate'
