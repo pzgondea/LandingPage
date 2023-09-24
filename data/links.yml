@@ -1,6 +1,6 @@
 tiles:
 -
-  name: "Alexandra Zgondea"
+  name: "ALEXANDRA"
   url: "https://alexandra.zgondea.com"
   img: "logos/az.png"
   #txt_color: "#ffffff"
@@ -8,13 +8,13 @@ tiles:
   tags: ["favorite", "search"]
 
 -
-  name: "Paul Zgondea"
+  name: "PAUL"
   url: "https://paul.zgondea.com"
   img: "logos/pz.jpeg"
   tags: ["favorite", "search"]
 
 -
-  name: "Performax"
+  name: "PERFORMAX"
   url: "https://www.iperformax.com/"
   img: "logos/iperformax.png"
   bg_color: "#ffffff"
