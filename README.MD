@@ -1,1 +1,1 @@
-# Simple landing page using Hugo slate theme 
+# [Simple landing page](https://zgondea.com/) using Hugo slate theme 
