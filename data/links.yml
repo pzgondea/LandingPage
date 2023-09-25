@@ -22,13 +22,13 @@ tiles:
   tags: ["favorite", "shopping"]
 
 
-  name: "Ender"
-  url: "https://www.iperformax.com/"
-  img: "logos/iperformax.png"
-  bg_color: "#ffffff"
-  txt_color: "#ff9900"
-  tags: ["favorite", "shopping"]
-# -
+#   name: "Ender"
+#   url: "https://www.iperformax.com/"
+#   img: "logos/iperformax.png"
+#   bg_color: "#ffffff"
+#   txt_color: "#ff9900"
+#   tags: ["favorite", "shopping"]
+# # -
 #   name: "reddit"
 #   url: "https://reddit.com"
 #   img: "logos/reddit.svg"
